@@ -61,6 +61,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [1Claw](https://github.com/1clawAI/langchain-1claw-adapter): Vault-backed credential resolution and policy-checked tool calls for LangChain agents. Secrets stay in an HSM-backed vault (scoped, audited, revocable) and are never exposed to the model or persisted in context ![GitHub Repo stars](https://img.shields.io/github/stars/1clawAI/langchain-1claw-adapter?style=social)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [Auto-evaluator](https://github.com/rlancemartin/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/rlancemartin/auto-evaluator?style=social)
